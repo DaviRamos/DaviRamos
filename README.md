@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### Sejam Bem Vindos ao meu Perfil !!!
 
-Meu nome é Davi Davi Ramos e ...:
+Meu nome é Davi Davi Ramos e:
 
- - 😄 Eu Relamente gosto de Estudar assuntos ligados a tecnologiaa e suas Soft-Skils.
- - 📊 Eu Trabalho como Product Manager para Data Science e Automações na Maior LaW Tech da America Latina.
- - 📚 Atualmetne eu estou estudando a Biblioteca ML.Net o framework para Data Science da Microsoft.
- - 📫 Voce pode entrrar em contato através do: Twitter ou Linkedin
+ - 😄 Eu Relamente gosto de Estudar assuntos ligados a tecnologiapreferencialmente Machione Learning e Soft-Skils.
+ - 📊 Eu Trabalho como Product Manager para Data Science e Automações na Maior LAW Tech da America Latina.
+ - 📚 Atualmente eu estou estudando a Biblioteca ML.Net o framework para Data Science da Microsoft.
+ - 📫 Voce pode entrar em contato comigo através do: Twitter ou Linkedin
