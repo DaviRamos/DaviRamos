@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ramos/)](https://www.linkedin.com/in/davi-ramos/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter--c1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Daviinfo/)](https://twitter.com/Daviinfo/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-c1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Daviinfo/)](https://twitter.com/Daviinfo/)
 
 
 
