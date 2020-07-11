@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ramos/)](https://www.linkedin.com/in/davi-ramos/)
 
 
-### Hellooo! 👋 Welcome to my profile
+### Sejam Bem Vindos ao meu Perfil !!!
 
-My name is Davi Ramos and ...:
+Meu nome é Davi Davi Ramos e ...:
 
- - 😄 I really like to learn
- - 📊 I'm working with a Data Science
- - 📚 Currently studying Azure and LGPD
- - 🌍
+ - 😄 Eu Relamente gosto de Estudar assuntos ligados a tecnologiaa e suas Soft-Skils.
+ - 📊 Eu Trabalho como Product Manager para Data Science e Automações na Maior LaW Tech da America Latina.
+ - 📚 Atualmetne eu estou estudando a Biblioteca ML.Net o framework para Data Science da Microsoft.
+ - 📫 Voce pode entrrar em contato através do: Twitter ou Linkedin
