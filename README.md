@@ -9,5 +9,5 @@ Meu nome é Davi Davi Ramos e:
 
  - 😄 Eu Realmente gosto de Estudar assuntos ligados a Machine Learning, Liderança e Soft-Skils.
  - 📊 Trabalho como Product Manager para Data Science e Automações na Maior LAW Tech da America Latina.
- - 📚 Atualmente estou estudando o [**ML.Net**](https://dotnet.microsoft.com/learn/ml-dotnet/) o framework para Data Science da Microsoft.
+ - 📚 Atualmente estou estudando [**ML.Net**](https://dotnet.microsoft.com/learn/ml-dotnet/) o framework para Data Science da Microsoft.
  - 📫 Você pode entrar em contato comigo através do: [**Twitter**](https://twitter.com/Daviinfo/) ou [**Linkedin**](https://www.linkedin.com/in/davi-ramos/).
